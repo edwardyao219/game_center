@@ -3,7 +3,7 @@
     <h1>大小个的游戏世界</h1>
     <p>请选择你要玩的游戏：</p>
     <div class="game-list">
-      <button @click="selectGame('merge')">✨ 合成美丽的大小个</button>
+      <button @click="selectGame('merge')">✨ 合成可爱的大小个</button>
       <button @click="selectGame('find')">🐱 大小个猫猫跳</button>
     </div>
   </div>
